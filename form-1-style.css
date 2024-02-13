@@ -8,13 +8,17 @@ div.one{
     width:35%;
     min-width:100px;
     height:100vh;
+    background-image: url("olena-bohovyk-r0M9HrfJMBM-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-clip: content-box;
+    background-size: cover;
 }
 
 div.two{
     border:2px solid green;
     width:65%;
     min-width: 300px;
-    background-color: rgba(224, 226, 232, 0.981);
+    background-color: rgb(249,250,251);
 
 }
 
@@ -60,7 +64,7 @@ label{
     padding-top: 0.5em;
     padding-bottom: 1.5em;
     font-size:0.8em;
-    background-color: darkolivegreen;
+    background-color: #596D48;
     border-radius: 0.4em;
     color:ghostwhite;
 
