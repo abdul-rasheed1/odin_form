@@ -11,7 +11,19 @@ PROBLEMS I've faced so far
 
 
 2.getting the background image to fill the first part of the page was initially not easy
-	I solved this by going to w3schools and looking at how the background image is used and i realized that using background size property with cover value did the trick
+I solved this by going to w3schools and looking at how the background image is used and i realized that using background size property with cover value did the trick
+
+3. Getting the div to be transparent without dimming everything withing it
+   I solved this by using the rgba() color function in css where the alpha allowed me to adjust opacity
+
+4. I also figured out how to import fonts from google fonts
+
+
+
+
+
+   The project is almost done now at least with the ui
+   i'm planning on adding some validations to the forms going forward
 
 
  
